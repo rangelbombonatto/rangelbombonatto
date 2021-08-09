@@ -1,8 +1,7 @@
 ### Olá! 👋
 
-- 🔭 Atualmente estou trabalhando como Analista e Qualidade de Sotware
-- 🌱 Estou estudando automação de testes em Cypress
-- 😄 Pronouns: ele/dele
+- 🔭 Atualmente estou trabalhando com Análise e Qualidade de Software
+- 🌱 E estou estudando automação de testes em Cypress com VueJs
 
  <div>
   <a href="https://github.com/rangelbombonatto">
